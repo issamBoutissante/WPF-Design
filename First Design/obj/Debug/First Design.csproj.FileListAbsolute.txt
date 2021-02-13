@@ -1,0 +1,15 @@
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\bin\Debug\First Design.exe.config
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\bin\Debug\First Design.exe
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\bin\Debug\First Design.pdb
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First Design.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\MainWindow.g.cs
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\App.g.cs
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First Design_MarkupCompile.cache
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First Design_MarkupCompile.lref
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\MainWindow.baml
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First Design.g.resources
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First_Design.Properties.Resources.resources
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First Design.csproj.GenerateResource.cache
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First Design.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First Design.exe
+C:\Users\bouti\OneDrive\Documents\WPF\First Design\First Design\obj\Debug\First Design.pdb
